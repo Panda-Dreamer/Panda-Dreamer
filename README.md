@@ -15,3 +15,5 @@ https://www.roblox.com/games/6696746413/RAID-Club-Dynasty
 
 Ivy Comms
 A system to send remote actions from any platform to a roblox server using an external server
+
+I am scripting a lot of stuff outside of that but I never finish my projects so I wont put them on my profile
