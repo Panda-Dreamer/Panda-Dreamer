@@ -17,3 +17,11 @@ Ivy Comms
 A system to send remote actions from any platform to a roblox server using an external server
 
 I am scripting a lot of stuff outside of that but I never finish my projects so I wont put them on my profile
+
+Random project of mine:
+
+A minecraft generation project test place
+https://www.roblox.com/games/5906349854/Perlin-noise-dumb 
+
+An old game, I will finish it one day I guess
+https://www.roblox.com/games/5027918505/Spleef-Remastered-BETA
