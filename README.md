@@ -1,6 +1,10 @@
 French Programmer and Scripter
 
 
+![My stats](https://github-readme-stats.vercel.app/api?username=Panda-Dreamer&show_icons=true&theme=tokyonight)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Panda-Dreamer&langs_count=8&theme=tokyonight)
+
 
 Portfolio:
 
@@ -27,7 +31,4 @@ An old game, I will finish it one day I guess
 https://www.roblox.com/games/5027918505/Spleef-Remastered-BETA
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panda-Dreamer&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panda-Dreamer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight )
 
