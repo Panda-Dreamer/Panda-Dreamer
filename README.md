@@ -1,5 +1,5 @@
-French Programmer and Scripter
-
+Programmer and Scripter
+Coding for fun not focusing on anything at the moment, just vibing
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Panda-Dreamer&show_icons=true&theme=tokyonight)
 
