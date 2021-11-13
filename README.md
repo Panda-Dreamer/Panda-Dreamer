@@ -3,10 +3,10 @@ French Programmer and Scripter
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Panda-Dreamer&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Panda-Dreamer&langs_count=8&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Panda-Dreamer&langs_count=8&theme=tokyonight)
 
 
-Portfolio:
+**Portfolio:**
 
 Roblox Firestore module to interact between firestore and roblox
 https://github.com/Panda-Dreamer/Roblox-firestore-module
